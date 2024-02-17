@@ -1,0 +1,58 @@
+body {
+    background-color: blueviolet;
+    height: 400%;
+    width: 100%;
+}
+
+#heading {
+    text-align: center;
+    color: black;
+
+}
+
+#txtbox {
+    text-align: center;
+
+}
+
+#text {
+    height: 40px;
+    width: 400px;
+
+}
+
+#btn {
+    text-align: center;
+
+}
+
+#copy {
+    position: absolute;
+
+    top: 85px;
+    left: 790px;
+    height: 38px;
+    cursor: pointer;
+}
+
+button {
+
+
+    color: green;
+    border-radius: 25px;
+    height: 40px;
+    width: 400px;
+    background-color: yellow;
+
+    cursor: pointer;
+}
+
+#img {
+
+    position: absolute;
+
+    top: 126px;
+    left: 461px;
+    height: 37px;
+
+}
